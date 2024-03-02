@@ -57,7 +57,7 @@ To get started with this project, clone the repository to your local machine or 
 
 ### Track and Count Vehicles with YOLOv8
 
-![](/images/result.png)
+![](/images/car_count.png)
 
 ## Contributing
 Contributions to this project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
